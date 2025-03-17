@@ -1,3 +1,7 @@
+###My undergraduate architecture design exploration project was a spatial exploration aimed at creating a place that enhances the food experience. The goal was to design a venue where people can host events, create shared memories, and engage with food as more than just sustenance—but as an experience and an event.
+
+The project seeks to continue the legacy of the existing site, breathing new life and vitality into it.
+
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/89f7744c-7929-475c-91cd-0a2a7ec2bf4c" />
 <img width="1149" alt="image" src="https://github.com/user-attachments/assets/a591e571-d1c6-4053-867d-a7a2ff5a1008" />
 <img width="1150" alt="image" src="https://github.com/user-attachments/assets/51b771b6-679c-4b55-8ca3-a34af9aa574a" />
