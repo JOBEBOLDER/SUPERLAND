@@ -69,7 +69,8 @@
 <img width="1147" alt="image" src="https://github.com/user-attachments/assets/eb4956f8-0204-4c14-85af-33eda832183d" />
 <img width="1148" alt="image" src="https://github.com/user-attachments/assets/4a2950f3-7100-4821-974c-085694ab8320" />
 <img width="1148" alt="image" src="https://github.com/user-attachments/assets/faa108f3-7eba-41d3-b1f3-304fee56e226" />
-## Scan the QR code can see more Superland model details:
+
+ ##  Scan the QR code to see more Superland model details:
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/77f5b1ad-2b53-4392-ae07-d75edd1878a6" />
 
 
